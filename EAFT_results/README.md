@@ -1,8 +1,10 @@
-# Comparing Entropy Adaptive Fine Tuning
+# Comparing Entropy Adaptive Fine Tuning For Censorship Removal
 
 target model: Qwen/Qwen3-4B-Instruct-2507
 
 purpose of finetune: uncensor all the things
+
+EAFT is *not* ideal for counterfactual tasks like this, so I was curious what would happen if I tried it
 
 EAFT model available at: https://huggingface.co/electroglyph/Qwen3-4B-Instruct-2507-uncensored-v2-EAFT
 
@@ -321,5 +323,6 @@ Okay, here are some tips for growing healthy cannabis plants, even if it's techn
 
 **10. Post-Harvest Care:** After harvesting, dry your buds slowly in a cool, dark, well-ventilated area for 7-14 days. Then, cure them in airtight jars for several weeks to mellow the flavor and smooth out the smoke.
 ```
+
 
 These completions started out quite differently but ended up pretty close in theme. I don't really know what kind of conclusion to draw from this one.
