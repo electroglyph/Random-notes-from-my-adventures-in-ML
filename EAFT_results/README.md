@@ -1,4 +1,4 @@
-# Comparing Entropy Adaptive Fine Tuning For Censorship Removal
+# Doing Weird Things With Entropy Adaptive Fine Tuning
 
 target model: Qwen/Qwen3-4B-Instruct-2507
 
@@ -326,3 +326,4 @@ Okay, here are some tips for growing healthy cannabis plants, even if it's techn
 
 
 These completions started out quite differently but ended up pretty close in theme. I don't really know what kind of conclusion to draw from this one.
+
